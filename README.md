@@ -4,7 +4,7 @@ A beautiful HTML, CSS, and JavaScript web application for a modern coffee shop.
 
 ## 🌐 Live Demo
 
-**[View Live Demo](https://Abhishekkmsharmawebdev.github.io/coffeeshop/)**
+**[View Live Demo](https://coffeeshop-flame-eight.vercel.app/)**
 
 Click the link above to see the coffee shop application in action!
 
